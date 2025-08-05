@@ -77,7 +77,7 @@ python main.py
 ## 📘 API 文件與 Swagger UI
 啟動伺服器後，可透過以下路徑查看 API 文件：
 - Swagger UI: http://localhost:5000/swagger-ui/
- <img width="938" height="428" alt="image" src="https://github.com/user-attachments/assets/94862bdc-330d-4c53-8a6a-cd223abaaa0b" />
+<img width="923" height="383" alt="image" src="https://github.com/user-attachments/assets/606c6bfb-1ed3-4148-9ed9-10f114f5710e" />
 
 - Swagger YAML: http://localhost:5000/swagger.yaml
 
@@ -88,7 +88,7 @@ python main.py
 ```bash
 token: <your-jwt-token>
 ```
-<img width="854" height="485" alt="image" src="https://github.com/user-attachments/assets/1b1ec59d-4dd5-4a0d-b430-5f3a1a449832" />
+<img width="923" height="366" alt="image" src="https://github.com/user-attachments/assets/738f1b3b-11ba-4acb-9ca2-cdcff67f5e1f" />
 
 ---
 
