@@ -48,8 +48,8 @@ cd <你的專案資料夾>
 建議使用 pipenv 或 venv 建立虛擬環境，以隔離專案依賴。
 ```bash
 python -m venv venv
-source venv/bin/activate  # macOS/Linux
-# venv\Scripts\activate   # Windows
+# source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate   # Windows
 pip install -r requirements.txt # 你需要手動建立一個 requirements.txt 文件
 ```
 
