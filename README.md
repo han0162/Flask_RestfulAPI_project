@@ -40,8 +40,8 @@
 ### 1. 複製專案
 
 ```bash
-git clone <你的專案URL>
-cd <你的專案資料夾>
+git clone https://github.com/han0162/Flask_RestfulAPI_project.git
+cd Flask_RestfulAPI_project
 ```
 
 ### 2. 建立虛擬環境與安裝依賴
@@ -74,12 +74,14 @@ python main.py
 
 ---
 
-## 📘 API 文件與 Swagger UI
+## 📘  Swagger 文件與 Swagger-UI
 啟動伺服器後，可透過以下路徑查看 API 文件：
-- Swagger UI: http://localhost:5000/swagger-ui/
+- Swagger YAML: http://localhost:5000/swagger.yaml
+- Swagger JSON: http://localhost:5000/swagger/
+- Swagger UI (示意圖如下) : http://localhost:5000/swagger-ui/
 <img width="923" height="383" alt="image" src="https://github.com/user-attachments/assets/606c6bfb-1ed3-4148-9ed9-10f114f5710e" />
 
-- Swagger YAML: http://localhost:5000/swagger.yaml
+
 
 ---
 
